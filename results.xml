@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="suite_Test_script" hostname="ASP-67VFY04" time="21.918" timestamp="2025-08-01T09:55:43" errors="0" failures="0" tests="1" skipped="0">
+    <testcase classname="suite_Test_script.tst_Test_case1" name="Test1" time="19.272">
+      <properties>
+        <property name="summary" value="Verify basic equality logic" />
+        <property name="description"><![CDATA[
+        This test checks whether the test framework correctly validates that 1 equals 1.
+        It is used to validate the baseline logic of the test engine using Squish.
+        ]]></property>
+      </properties>
+      <system-err/>
+    </testcase>
+  </testsuite>
+</testsuites>
