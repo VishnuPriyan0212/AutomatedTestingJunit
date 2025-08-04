@@ -1,0 +1,2 @@
+# AutomatedTestingJunit
+Importing Junit Xml
