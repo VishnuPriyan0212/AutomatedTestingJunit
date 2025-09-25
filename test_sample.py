@@ -1,8 +1,7 @@
 # test_sample.py
+def multiply(a, b):
+    return a * b
 
-def subtract(a, b):
-    return a - b
-
-def test_subtraction():
-    assert subtract(5, 2) == 3
+def test_multiplication():
+    assert multiply(4, 5) == 20
 
